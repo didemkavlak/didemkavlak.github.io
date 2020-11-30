@@ -2279,7 +2279,7 @@ input, select, textarea {
 				}
 
 			hr {
-				margin: 1.5em 0 2em 0;
+				margin: 1.5em 0 5em 0;
 			}
 
 		/* Section/Article */
@@ -2367,7 +2367,7 @@ input, select, textarea {
 				}
 
 				.box.style1 {
-					max-width: 32em;
+					max-width: 	2em;
 					margin-left: auto !important;
 					margin-right: auto !important;
 				}
